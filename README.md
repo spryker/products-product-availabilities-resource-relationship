@@ -4,6 +4,8 @@
 
 ProductsProductAvailabilitiesResourceRelationship module provides relationship between products (abstract and concrete) and product availabilities resources.
 
+**This module is not continued at this point.**
+
 ## Installation
 
 ```
